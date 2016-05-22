@@ -96,10 +96,10 @@ class instagrid_PageTemplater {
 
                 // Add your templates to this array.
                 $this->templates = array(
-                    'instagrid-full.php'     => 'Instagrid Masonry',
-					'instagrid-fullwidth.php'     => 'Instagrid Full Width',
-					'instagrid-parallax.php'     => 'Instagrid Parallax',
-					'instagrid-parallax-overlay.php'     => 'Instagrid Parallax Overlay',
+                    'instagrid-full.php'     => 'Instafolio Masonry',
+					'instagrid-fullwidth.php'     => 'Instafolio Full Width',
+					'instagrid-parallax.php'     => 'Instafolio Parallax',
+					'instagrid-parallax-overlay.php'     => 'Instafolio Parallax Overlay',
                 );
         } 
 
